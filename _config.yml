@@ -18,21 +18,45 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: KI Governance Blog
+email: mario.tokarz@rightminded.ai
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+   Blog mit Gedanken zu KI-Governance, Risiko-Management, ISO 42001 und mehr.
+   Aus Tech, Policy & Praxis.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://ki-governance.blog" # the base hostname & protocol for your site, e.g. http://example.comgit
+lang: de_DE
+
+linkedin_username: mariotokarz
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-archives
+
+minima:
+  date_format: "%-d.%m.%Y"
+
+header_pages:
+  - ueber.markdown
+
+author: "Mario Tokarz"
+
+jekyll-archives:
+  enabled: [categories] 
+  layout: archive
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'
+  layouts:
+    category: archive
+    tag: archive 
 
 # Exclude from processing.
 # The following items will not be processed, by default.
