@@ -18,6 +18,21 @@ layout: default
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
+  <div id="kategorie-stichwort"> 
+	<p><strong>Kategorie:</strong>
+  	{% for category in page.categories %}
+    		<a href="{{ '/kategorie/' | append: category | downcase | replace: ' ', '-' | relative_url }}">{{ category }}</a>{% unless forloop.last %}, {% endunless %}
+  	{% endfor %}
+
+	{% if page.tags %}
+  	<br><strong>Tags:</strong>
+    		{% for tag in page.tags %}
+      		<a href="{{ '/stichwort/' | append: tag | downcase | replace: ' ', '-' | relative_url }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}
+    	{% endfor %}
+  	
+{% endif %}
+	</p>
+  </div>
   <div id="comments">
     <!-- Giscus integration -->
     <script src="https://giscus.app/client.js"
