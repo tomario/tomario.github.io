@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Willkommen beim KI Governance Blog!"
+title: "Willkommen beim KI-Governance Blog!"
 date: 2025-05-18
 categories: [Governance]
 excerpt: "Warum dieser Blog entstanden ist – und warum KI-Governance jetzt wichtig ist."
@@ -9,7 +9,7 @@ excerpt: "Warum dieser Blog entstanden ist – und warum KI-Governance jetzt wic
 Willkommen – schön, dass Sie hier sind.
 
 Ich bin [Mario Tokarz](/ueber) und dies ist mein Blog. Warum ein Blog
-über KI Governance? Künstliche Intelligenz ist mittlerweile
+über KI-Governance? Künstliche Intelligenz ist mittlerweile
 omnipräsent. Ihr Einsatz verändert nicht nur die Wirtschaft, sondern
 auch unsere Gesellschaft als Ganzes.
 

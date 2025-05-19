@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: KI Governance Blog
+title: KI-Governance Blog
 email: mario.tokarz@rightminded.ai
 description: >- # this means to ignore newlines until "baseurl:"
    Blog mit Gedanken zu KI-Governance, Risiko-Management, ISO 42001 und mehr.
