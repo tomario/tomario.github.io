@@ -33,4 +33,15 @@ keine rechtswidrigen Inhalte. Sie können nach diesem Datum jedoch zu
 fremden Inhalten führen, die wir nicht regelmäßig überprüfen können
 und für die wir keine Verantwortung übernehmen.
 
+### Datenschutz
+##### Webanalyse mit Plausible Analytics
+
+Diese Website verwendet [Plausible Analytics](https://plausible.io),
+einen datenschutzfreundlichen Webanalysedienst. Plausible verzichtet
+vollständig auf Cookies, speichert keine personenbezogenen Daten und
+ist konform mit der Datenschutz-Grundverordnung (DSGVO).
+
+Weitere Informationen finden Sie unter:
+[https://plausible.io/data-policy](https://plausible.io/data-policy)
+
 
