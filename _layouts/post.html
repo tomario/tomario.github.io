@@ -24,7 +24,7 @@ layout: default
     		<a href="{{ '/kategorie/' | append: category | downcase | replace: ' ', '-' | relative_url }}">{{ category }}</a>{% unless forloop.last %}, {% endunless %}
   	{% endfor %}
 
-	{% if page.tags %}
+	{% if page.tags.size > 0 %}
   	<br><strong>Tags:</strong>
     		{% for tag in page.tags %}
       		<a href="{{ '/stichwort/' | append: tag | downcase | replace: ' ', '-' | relative_url }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}
