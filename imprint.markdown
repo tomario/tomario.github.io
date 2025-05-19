@@ -35,7 +35,6 @@ und für die wir keine Verantwortung übernehmen.
 
 ### Datenschutz
 ##### Webanalyse mit Plausible Analytics
-
 Diese Website verwendet [Plausible Analytics](https://plausible.io),
 einen datenschutzfreundlichen Webanalysedienst. Plausible verzichtet
 vollständig auf Cookies, speichert keine personenbezogenen Daten und
@@ -43,5 +42,12 @@ ist konform mit der Datenschutz-Grundverordnung (DSGVO).
 
 Weitere Informationen finden Sie unter:
 [https://plausible.io/data-policy](https://plausible.io/data-policy)
+
+##### Kommentierung über Giscus und Github
+Die Website wird auf Github gehostet und bietet eine
+Kommentierungsfunktion an, die auf Github aufsetzt funktioniert. Um zu
+kommentieren ist daher eine Anmeldung bei Github notwendig, Kommentare
+sind im entsprechenden Github Repository tomario/tomario.github.io
+sichtbar.
 
 
