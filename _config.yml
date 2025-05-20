@@ -35,31 +35,16 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-archives
 
 minima:
   date_format: "%-d.%m.%Y"
 
 header_pages:
+  - archiv.markdown
   - ueber.markdown
 
 author: "Mario Tokarz"
 
-jekyll-archives:
-  enabled: [categories, tags, year, month] 
-  layout: archive
-  permalinks:
-    year: '/:year/'
-    month: '/:year/:month/'
-    day: '/:year/:month/:day/'
-    tag: '/stichwort/:name/'
-    category: '/kategorie/:name/'
-  layouts:
-    category: category-archive
-    tag: category-archive
-    year: year-archive
-    month: month-archive
-    day: day-archive
 
 # Exclude from processing.
 # The following items will not be processed, by default.
