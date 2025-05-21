@@ -9,13 +9,12 @@ excerpt: "Dieser Beitrag erklärt, warum ISO/IEC 42001 als Management-System fü
 
 ## Auf einen Blick
 
-| **Standard**      | [ISO/IEC 42001:2023](https://www.iso.org/standard/81230.html)                                                                      |
-| **Titel**               | Information technology — Artificial intelligence — Management system                                                               |
-| **Typ**                 | Internationaler Standard                                                                                                           |
-| **Herausgeber**         | ISO                                                                                                                                |
-| **Status**              | Veröffentlicht                                                                                                                     |
-| **Wesentliche Inhalte** | Beschreibt ein organisationsweites KI-Management System, einschließlich Hinweise zu möglichen Zielsetzungen und Kontrollelementen. |
-
+| **Standard**            | [ISO/IEC 42001:2023](https://www.iso.org/standard/81230.html)                                                                                                                                                                    |
+| **Titel**               | Information technology — Artificial intelligence — Management system                                                                                                                                                             |
+| **Typ**                 | Internationaler Standard                                                                                                                                                                                                         |
+| **Herausgeber**         | ISO                                                                                                                                                                                                                              |
+| **Status**              | Veröffentlicht                                                                                                                                                                                                                   |
+| **Wesentliche Inhalte** | Beschreibt ein organisationsweites KI-Management System, einschließlich Hinweise zu möglichen Zielsetzungen und Kontrollelementen.                                                                                               |
 
 
 ## Aufbau und Inhalte des Standards
@@ -29,6 +28,9 @@ Ziele sind zu einem guten Teil vergleichbar zu den allgemeineren
 KI-Governance-Zielen, wie wir sie bereits in [unserem
 Blog-Post](/governance/2025/05/19/was-ist-ki-governance.html) gesehen
 haben.
+
+{% include figure.html preview="/assets/images/iso-42001-ueberblick-klein.png" full="/assets/images/iso-42001-ueberblick.png" alt="Überblick ISO 42001" caption="Abbildung: Überblick ISO/IEC 42001 – zum Vergrößern klicken" %} 
+
 
 ### Anforderungen an das KI-Management-System
 Die Inhalte der Kapitel 4 bis 10 beschreiben den Aufbau eines
