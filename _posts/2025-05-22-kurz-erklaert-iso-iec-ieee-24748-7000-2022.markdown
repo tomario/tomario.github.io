@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ISO/IEC/IEEE 24748-7000:2022 kurz erklärt: Der Standard für ethisches System-Design"
-date: 2025-05-21
+date: 2025-05-23
 categories: [Standards]
 tags: [Basics, ISO 24748-7000, IEEE 7000]
 excerpt: "In diesem Beitrag erläutern wir, wie ISO/IEC/IEEE 24748-7000 die Entwicklung von KI- und IT-Systemen ermöglicht, die rechtlich, inhaltlich und sozial stimmig und compliant sind."
