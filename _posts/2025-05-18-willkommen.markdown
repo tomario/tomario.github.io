@@ -2,6 +2,7 @@
 layout: post
 title: "Willkommen beim KI-Governance Blog!"
 date: 2025-05-18
+last_modified_at: 2025-05-18
 categories: [Governance]
 excerpt: "Warum dieser Blog entstanden ist – und warum KI-Governance jetzt wichtig ist."
 ---

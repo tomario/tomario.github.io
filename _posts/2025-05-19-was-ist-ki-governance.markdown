@@ -2,6 +2,7 @@
 layout: post
 title: "Was ist KI-Governance?"
 date: 2025-05-19
+last_modified_at: 2025-05-19
 categories: [Governance]
 tags: [Basics, AI Act]
 excerpt: "Ein Post mit einer kurzen Einführung, was KI-Governance auf organisatorischser und hoheitlicher (EU-)Ebene umfasst."

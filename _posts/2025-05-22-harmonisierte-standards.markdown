@@ -2,6 +2,7 @@
 layout: post
 title: "Harmonisierte Standards und KI - Warum der Hype?"
 date: 2025-05-22
+last_modified_at: 2025-05-22
 categories: [Standards]
 tags: [AI Act, JTC 21]
 excerpt: "Ein kurzer Einblick in die Logik hinter harmonisierten Standards der EU und warum sie zentral für die Compliance mit dem EU Ai Act sind."

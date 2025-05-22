@@ -2,6 +2,7 @@
 layout: post
 title: "ISO/IEC 42001:2023 kurz erklärt: Was der Standard für KI-Management-Systeme leistet"
 date: 2025-05-20
+last_modified_at: 2025-05-21
 categories: [Standards]
 tags: [Basics, ISO 42001]
 excerpt: "Dieser Beitrag erklärt, warum ISO/IEC 42001 als Management-System für Künstliche Intelligenz ein Meilenstein ist – und was er (nicht) leistet."
