@@ -28,7 +28,7 @@ url: "https://ki-governance.blog" # the base hostname & protocol for your site, 
 lang: de_DE
 
 linkedin_username: mariotokarz
-
+linkedin_newsletter: ki-governance-standards-7331378426743787521
 # Build settings
 theme: minima
 plugins:
