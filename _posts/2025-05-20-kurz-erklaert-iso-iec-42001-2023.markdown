@@ -246,8 +246,9 @@ verzögert](https://www.euronews.com/next/2025/04/16/eu-standards-bodies-flag-de
 
 Ausserdem ist die KI-Technologie hoch-dynamisch. Ob unter diesem
 Vorzeichen wirklich bessere Standards entstehen oder es sich auf
-Seiten der EU eher um das *Not-Invented-Here-Syndrom* handelt, müssen
-wir genau beobachten.
+Seiten der EU eher um das
+[*Not-Invented-Here-Syndrom*](https://de.wikipedia.org/wiki/Not-invented-here-Syndrom)
+handelt, müssen wir genau beobachten.
 
 *Hinweis: Dieser Beitrag ist Teil einer Serie zu KI-Standards. Weitere
 Artikel zu Standards wie ISO/IEC/IEEE 24748-7000, IEEE 7001 und
