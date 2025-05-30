@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO/IEC 42005:2025 - System-Impact-Assessment standardisiert."
+title: "ISO/IEC 42005 kurz erklärt: Eine Brücke zwischen Governance- und Systemebene?"
 date: 2025-05-30
 last_modified_at: 2025-05-30
 categories: [Standards]
