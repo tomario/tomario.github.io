@@ -2,14 +2,13 @@
 layout: post
 title: "ISO/IEC 42005 kurz erklärt: Eine Brücke zwischen Governance- und Systemebene?"
 date: 2025-05-30
-last_modified_at: 2025-05-30
+last_modified_at: 2025-06-04
 categories: [Standards]
 tags: [ISO 42001]
 excerpt: "Ein kurzer Überblick über den neuen ISO/IEC 42005-Standard zum Impact-Assessment für KI-Systeme und die dadurch entstehende Brücke zwischen ISO 42001 und EU AI Act."
 ---
 
-Um ehrlich zu sein: Der Zeitpunkt für diesen Blog-Post ist ein
-Zufall. ISO 42005 ist die neueste Ergänzung zur 42000'er Serie der ISO,
+ISO 42005 ist die neueste Ergänzung zur 42000'er Serie der ISO,
 die sich mit dem Management bzw. der Governance von Künstlicher
 Intelligenz (KI) befasst. Der finale Standard wurde am 28. Mai 2025,
 also diese Woche veröffentlicht.
