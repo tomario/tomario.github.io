@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<h1>Beiträge zum Stichwort: {{ page.tag }}</h1>
+{% if page.description %}
+  <p><em>{{ page.description }}</em></p>
+{% endif %}
+<ul>
+  {% for post in site.tags[page.tag] %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date: "%d.%m.%Y" }})</li>
+  {% endfor %}
+</ul>
+

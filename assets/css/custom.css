@@ -1,0 +1,19 @@
+#kategorie-stichwort p {
+  color: #666;
+  margin-bottom: 0.5em;
+}
+
+#kategorie-stichwort strong {
+  color: #666;
+  font-weight: 600;
+}
+
+#kategorie-stichwort a {
+  color: #666;
+  text-decoration: none;
+}
+
+#kategorie-stichwort a:hover {
+  text-decoration: underline;
+}
+

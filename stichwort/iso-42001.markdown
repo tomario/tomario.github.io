@@ -1,0 +1,6 @@
+---
+layout: stichwort 
+title: ISO 42001 
+tag: ISO 42001
+permalink: /stichwort/iso-42001/
+---
